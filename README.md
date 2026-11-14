@@ -1,3 +1,15 @@
+<div align="center">
+  <a href="https://github.com/piyushshukla11/piyushshukla11/blob/main/assets/gemini_generated_video.mp4" title="Click to view full HD video with audio">
+    <picture>
+      <source type="image/webp" srcset="https://raw.githubusercontent.com/piyushshukla11/piyushshukla11/main/assets/banner.webp">
+      <img src="https://raw.githubusercontent.com/piyushshukla11/piyushshukla11/main/assets/banner.gif" alt="Gemini Generated Space Visual" width="100%">
+    </picture>
+  </a>
+  <p align="right">
+    <sub>🎥 <i>Generated with Gemini • <a href="https://github.com/piyushshukla11/piyushshukla11/blob/main/assets/gemini_generated_video.mp4">Watch Full HD Video with Audio</a></i></sub>
+  </p>
+</div>
+
 # 💫 About Me:
 **Keep on building is my core philosophy.** I'm a software developer focused on Game Development, Cybersecurity, and Web Development, always looking to understand how systems work from the ground up.
 
