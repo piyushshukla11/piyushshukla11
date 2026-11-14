@@ -1,12 +1,12 @@
 <div align="center">
-  <a href="https://github.com/piyushshukla11/piyushshukla11/blob/main/assets/gemini_generated_video.mp4" title="Click to view full HD video with audio">
+  <a href="https://github.com/piyushshukla11/piyushshukla11/blob/main/assets/keep_on_building_blackhole_final.mp4" title="Click to view full video">
     <picture>
       <source type="image/webp" srcset="https://raw.githubusercontent.com/piyushshukla11/piyushshukla11/main/assets/banner.webp">
-      <img src="https://raw.githubusercontent.com/piyushshukla11/piyushshukla11/main/assets/banner.gif" alt="Gemini Generated Space Visual" width="100%">
+      <img src="https://raw.githubusercontent.com/piyushshukla11/piyushshukla11/main/assets/banner.gif" alt="Keep on building - Black Hole Merger Visual" width="100%">
     </picture>
   </a>
   <p align="right">
-    <sub>🎥 <i>Generated with Gemini • <a href="https://github.com/piyushshukla11/piyushshukla11/blob/main/assets/gemini_generated_video.mp4">Watch Full HD Video with Audio</a></i></sub>
+    <sub>🎥 <i>Keep On Building • <a href="https://github.com/piyushshukla11/piyushshukla11/blob/main/assets/keep_on_building_blackhole_final.mp4">Watch Full Video</a></i></sub>
   </p>
 </div>
 
