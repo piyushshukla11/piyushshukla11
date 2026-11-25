@@ -7,21 +7,62 @@
   </a>
 </div>
 
-# 💫 About Me:
-**Keep on building is my core philosophy.** I'm a software developer focused on Game Development, Cybersecurity, and Web Development, always looking to understand how systems work from the ground up.
+<br/>
 
+<img src="./assets/headers/header_about.png" alt="About Me" width="340" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/piyush-shukla-dev) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Piyush_K_Shukla) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:piyushshukla775314@gmail.com) 
+> **`SYS.INIT`** ── *"Keep on building is my core philosophy."*
+> 
+> Software developer focused on **Game Development**, **Cybersecurity**, and **Web Development**, always understanding and building systems from the ground up.
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=piyushshukla11&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=piyushshukla11&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=piyushshukla11&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<br/>
+
+<img src="./assets/headers/header_socials.png" alt="Channels" width="340" />
+
+<p>
+  <a href="https://linkedin.com/in/piyush-shukla-dev"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/Piyush_K_Shukla"><img src="https://img.shields.io/badge/X-0f172a?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
+  <a href="mailto:piyushshukla775314@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://leetcode.com/u/zogratis_775314/"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+</p>
+
+<br/>
+
+<img src="./assets/headers/header_tech.png" alt="Tech Stack" width="340" />
+
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/JAVA-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/KOTLIN-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/REACT-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/BLENDER-E87D0D?style=flat-square&logo=blender&logoColor=white" alt="Blender" />
+  <img src="https://img.shields.io/badge/UNITY-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
+
+<br/>
+
+<img src="./assets/headers/header_stats.png" alt="GitHub Metrics" width="340" />
+
+<div align="center">
+  <img src="https://pixel-profile.vercel.app/api/github-stats?username=piyushshukla11&screen_effect=true&theme=crt" alt="Pixel GitHub Stats" width="100%" />
+</div>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=piyushshukla11&theme=tokyonight&hide_border=true&border_radius=0" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=piyushshukla11&theme=tokyonight&hide_border=true&border_radius=0&layout=compact" alt="Most Used Languages" width="49%" />
+</p>
+
+<div align="center">
+  <a href="https://nomlings.cc/badge" title="Pixel commit pet"><img src="https://nomlings.cc/badge/piyushshukla11" alt="Pixel Commit Pet" /></a>
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=piyushshukla11&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <a href="https://github.com/piyushshukla11"><img src="https://komarev.com/ghpvc/?username=piyushshukla11&color=38bdf8&style=flat-square&label=PIXEL+VISITS" alt="Visitor Count" /></a>
+</div>
