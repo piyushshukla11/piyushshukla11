@@ -1,12 +1,12 @@
 <div align="center">
-  <a href="https://github.com/piyushshukla11/piyushshukla11/blob/main/assets/keep_on_building_blackhole_final.mp4" title="Click to view full video">
+  <a href="https://github.com/piyushshukla11/piyushshukla11/blob/main/assets/minecraft_pixels_push_back.mp4" title="Click to view full video">
     <picture>
       <source type="image/webp" srcset="https://raw.githubusercontent.com/piyushshukla11/piyushshukla11/main/assets/banner.webp">
-      <img src="https://raw.githubusercontent.com/piyushshukla11/piyushshukla11/main/assets/banner.gif" alt="Keep on building - Black Hole Merger Visual" width="100%">
+      <img src="https://raw.githubusercontent.com/piyushshukla11/piyushshukla11/main/assets/banner.gif" alt="I push pixels until they push back" width="100%">
     </picture>
   </a>
   <p align="right">
-    <sub>🎥 <i>Keep On Building • <a href="https://github.com/piyushshukla11/piyushshukla11/blob/main/assets/keep_on_building_blackhole_final.mp4">Watch Full Video</a></i></sub>
+    <sub>🎥 <i>I Push Pixels Until They Push Back • <a href="https://github.com/piyushshukla11/piyushshukla11/blob/main/assets/minecraft_pixels_push_back.mp4">Watch Full Video</a></i></sub>
   </p>
 </div>
 
@@ -15,7 +15,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/piyush-shukla-dev) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Piyush_K_Shukla) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:piyushsukla775314@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/piyush-shukla-dev) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Piyush_K_Shukla) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:piyushshukla775314@gmail.com) 
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
