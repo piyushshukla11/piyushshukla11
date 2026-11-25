@@ -49,13 +49,14 @@
 <img src="./assets/headers/header_stats.png" alt="GitHub Metrics" width="340" />
 
 <div align="center">
-  <img src="https://pixel-profile.vercel.app/api/github-stats?username=piyushshukla11&screen_effect=true&theme=crt" alt="Pixel GitHub Stats" width="100%" />
+  <img src="./assets/stats/pixel_github_stats.png" alt="Pixel GitHub Stats" width="100%" />
 </div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=piyushshukla11&theme=tokyonight&hide_border=true&border_radius=0" alt="GitHub Streak" width="49%" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=piyushshukla11&theme=tokyonight&hide_border=true&border_radius=0&layout=compact" alt="Most Used Languages" width="49%" />
-</p>
+<br/>
+
+<div align="center">
+  <img src="./assets/stats/pixel_language_stats.png" alt="Pixel Language Breakdown" width="100%" />
+</div>
 
 <div align="center">
   <a href="https://nomlings.cc/badge" title="Pixel commit pet"><img src="https://nomlings.cc/badge/piyushshukla11" alt="Pixel Commit Pet" /></a>
