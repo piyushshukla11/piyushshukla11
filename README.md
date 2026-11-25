@@ -5,9 +5,6 @@
       <img src="https://raw.githubusercontent.com/piyushshukla11/piyushshukla11/main/assets/banner.gif" alt="I push pixels until they push back" width="100%">
     </picture>
   </a>
-  <p align="right">
-    <sub>🎥 <i>I Push Pixels Until They Push Back • <a href="https://github.com/piyushshukla11/piyushshukla11/blob/main/assets/minecraft_pixels_push_back.mp4">Watch Full Video</a></i></sub>
-  </p>
 </div>
 
 # 💫 About Me:
