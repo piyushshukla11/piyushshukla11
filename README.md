@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://piyushshukla.vercel.app" title="Visit Portfolio — piyushshukla.vercel.app">
+  <a href="https://zogratis.vercel.app" title="Visit Portfolio — zogratis.vercel.app">
     <picture>
       <source type="image/webp" srcset="https://raw.githubusercontent.com/piyushshukla11/piyushshukla11/main/assets/banner.webp">
       <img src="https://raw.githubusercontent.com/piyushshukla11/piyushshukla11/main/assets/banner.gif" alt="I push pixels until they push back" width="100%">
@@ -11,16 +11,16 @@
 
 <img src="./assets/headers/header_about.png" alt="About Me" width="340" />
 
-> **`SYS.INIT`** ── *"Keep on building is my core philosophy."*
-> 
-> Software developer focused on **Game Development**, **Cybersecurity**, and **Web Development**, always understanding and building systems from the ground up.
+<div align="center">
+  <img src="./assets/about_bio.png" alt="About Me: Keep on building is my core philosophy. Software developer focused on Game Development, Cybersecurity, and Web Development, always looking to understand how systems work from the ground up." width="100%" />
+</div>
 
 <br/>
 
 <img src="./assets/headers/header_socials.png" alt="Channels" width="340" />
 
 <p>
-  <a href="https://piyushshukla.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-38BDF8?style=flat-square&logo=vercel&logoColor=black" alt="Portfolio"/></a>
+  <a href="https://zogratis.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-38BDF8?style=flat-square&logo=vercel&logoColor=black" alt="Portfolio"/></a>
   <a href="https://linkedin.com/in/piyush-shukla-dev"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://x.com/Piyush_K_Shukla"><img src="https://img.shields.io/badge/X-0f172a?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
   <a href="mailto:piyushshukla775314@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
